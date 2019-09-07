@@ -7,7 +7,7 @@ The Game of Life coded in C. It can be described as a 'cellular automaton' game,
 The code is written in C and is meant to run on a
 Linux based machine.
 
-The [`main`](main.c) file will execute the game itself, but the rules for the game occur in life.c
+The [`life.c`](life.c) file will execute the game rules and define the math for each automation.
 
 ```C
 // life.c
